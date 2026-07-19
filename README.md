@@ -1,4 +1,4 @@
-# 一生 / Kazuki
+# Kazuki
 
 > If it doesn't circulate, I don't touch it.<br>
 > 循環しないものには、触れない。
