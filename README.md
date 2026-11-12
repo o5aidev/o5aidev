@@ -25,7 +25,8 @@ Unfinished, and no longer being developed. The repositories stay public so anyon
 
 ## Belief
 
-Through open source, I keep in circulation what others taught me for free.
+Through open source, I keep in circulation what others taught me for free.<br>
+I don't build systems that prove themselves right. I build them so mistakes can be found and corrected, and the corrections feed back into how they're built — a cycle that lets them evolve.
 
 ---
 
